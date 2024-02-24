@@ -1,4 +1,5 @@
 code for https://bundlrs.cc/pokescroll
+they currently are *unable* to scroll (properly) so they only work as normal text boxes for now, :(
 update: added 3rd box
 
 <style>

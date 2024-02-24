@@ -1,5 +1,5 @@
 code for https://bundlrs.cc/pokescroll
-
+update: added 3rd box
 
 <style>
 @font-face {
@@ -53,4 +53,29 @@ color: black;
     ::-webkit-scrollbar-thumb {
     background:transparent;
     }
+
+.scroll3 {
+overflow-x: hidden;
+display: block;
+width: 203px;
+height: 63px;
+font-family: 'pokemon';
+background: transparent;
+border-image: url("https://i.postimg.cc/s2JwrGcv/7-D8-CB442-734-E-41-EA-A68-F-832173619652.jpg") 0 fill round;
+border-radius: 0px;
+padding: 20px;
+font-size: 8.2px;
+overflow-y: scroll;
+margin: auto;
+color: black;
+}
+    ::-webkit-scrollbar {
+    width:0;
+    background:transparent;
+    }
+    ::-webkit-scrollbar-thumb {
+    background:transparent;
+    }
+
+
 </style>

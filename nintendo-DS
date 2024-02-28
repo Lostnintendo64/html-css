@@ -1,8 +1,9 @@
 code for bundlrs.cc/dualscreen
+update: adjusted custom cursor
 
   <style>
 body {
-      cursor: url('https://i.postimg.cc/DZrkbX66/IMG-8627.png'), auto; 
+      cursor: url(https://i.postimg.cc/d3GhXSQc/IMG-8636.png'), auto; !important
 }
 
 

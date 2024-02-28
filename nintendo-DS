@@ -67,6 +67,7 @@ transform: rotate(-9.5deg);
 }
 </style>
 <img id="ds" src="https://i.postimg.cc/fWjjHvsW/445-E1899-7-F02-4-E8-A-9-CAD-0-DC9-D8-ABDCD7.jpg">
+/* you can change the startup gif to whatever */
 <img id="startup" src="https://i.postimg.cc/7YH1jTP3/IMG-8617.gif">
 
 <p class="scroll"> write whatever you want here i guess

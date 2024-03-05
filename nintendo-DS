@@ -1,7 +1,4 @@
-code for bundlrs.cc/dualscreen
-update: adjusted custom cursor
-
-  <style>
+<style>
 body {
       cursor: url(https://i.postimg.cc/d3GhXSQc/IMG-8636.png'), auto; !important
 }
@@ -71,11 +68,7 @@ transform: rotate(-9.5deg);
 /* you can change the startup gif to whatever */
 <img id="startup" src="https://i.postimg.cc/7YH1jTP3/IMG-8617.gif">
 
-<p class="scroll"> write whatever you want here i guess
+<p class="scroll"> write whatever
 <br>
-i feel like a no-go school kid ah aha hah haha haha
-<br>
-I'd give my right hemisphere for a few hours of sleep 
-<br>
-snore mimimi
+bleh
 </p>
